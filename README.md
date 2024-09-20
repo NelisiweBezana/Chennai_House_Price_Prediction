@@ -1,4 +1,5 @@
-#Chennai Housing Sales Price Prediction
+# Chennai Housing Sales Price Prediction
+
 Project Overview
 This project involves analyzing and predicting the sales prices of residential properties in Chennai, India. The dataset used in this project contains detailed information about various properties, including their location, size, amenities, and sale details. The goal is to build a predictive model that can accurately estimate the sales prices of properties based on these attributes.
 
